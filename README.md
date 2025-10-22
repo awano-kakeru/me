@@ -8,7 +8,8 @@
     わたしの学籍番号は1254810059です。
     趣味はゲームでよくリズムゲームをしているんです。
     出身高校は茨城県立土浦工業高等学校で多くの思い出があります。
+    これは今年撮った海の写真です！
     
-<img width="405" height="720" alt="image" src="https://github.com/user-attachments/assets/a7e4b9ce-4557-469e-903f-14e8c8400a16" />
+<img width="377" height="720" alt="image" src="https://github.com/user-attachments/assets/973d3d42-f730-4834-9838-a3a853849ca0" />
 
  
